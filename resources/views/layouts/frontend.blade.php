@@ -9,7 +9,7 @@
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
   <meta name="description" content="E-Laundy aplikasi laundry berbasis website">
   <meta name="keywords" content="E-Laundry,Laundry">
-  <meta name="author" content="Andri Desmana">
+  <meta name="author" content="HamsSkie">
 
 	<!-- ================== BEGIN BASE CSS STYLE ================== -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
