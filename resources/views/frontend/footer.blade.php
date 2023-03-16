@@ -49,7 +49,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="https://instagram.com/{{$setpage->instagram ?? ''}}" target="_blank">
+                        <a href="https://instagram.com/hamskie.__?igshid=YmMyMTA2M2Y=" target="_blank">
                           <i class="fa fa-instagram fa-2x" style="color:#5B51D8"></i>
                         </a>
                       </li>

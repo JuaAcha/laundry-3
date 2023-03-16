@@ -93,9 +93,9 @@
               <div class="card text-center faq-contact-card shadow-none py-1">
                   <div class="card-body">
                       <div class="avatar avatar-tag bg-light-primary mb-2 mx-auto">
-                          <i class="font-medium-3 feather icon-message-circle"></i>
+                          <i class="font-medium-3 feather icon-instagram"></i>
                       </div>
-                      <h4><a href="https://t.me/andridesmana">Telegram</a></h4>
+                      <h4><a href="https://instagram.com/hamskie.__?igshid=YmMyMTA2M2Y=">Instagram</a></h4>
                       <span class="text-body">Best way to get answer faster!</span>
                   </div>
               </div>
@@ -106,7 +106,7 @@
                       <div class="avatar avatar-tag bg-light-primary mb-2 mx-auto">
                           <i class="font-medium-3 feather icon-mail"></i>
                       </div>
-                      <h4><a href="mailto:andridesmana29@outlook.com">andridesmana29@outlook.com</a> </h4>
+                      <h4><a href="mailto:andridesmana29@outlook.com">achilhamm.a@gmailcom</a> </h4>
                       <span class="text-body">Saya selalu senang mambantu!</span>
                   </div>
               </div>
