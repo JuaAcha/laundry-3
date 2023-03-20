@@ -17,10 +17,10 @@ class AdminSeeder extends Seeder
         // insert data ke table pegawai
         $user = User::create([
         	'name' => 'HamsSkie',
-        	'email' => 'ilham@laundry.com',
+        	'email' => 'achilhamm.a@gmail.com',
         	'status' => 'Active',
           'auth' => 'Admin',
-          'password' => bcrypt('hamskie')
+          'password' => bcrypt('JuaAlwaysNt')
         ]);
 
         // Set role admin

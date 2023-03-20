@@ -119,6 +119,12 @@
                                 <i class="feather icon-power"></i>
                                 Logout
                             </a>
+                            {{-- <a href="{{ route('logout') }}" class="dropdown-item"
+                                onclick="event.preventDefault();
+                                document.getElementById('logout-form').submit();" data-toggle="tooltip" title="Logout">
+                                <i class="feather icon-settings"></i>
+                                About
+                            </a> --}}
                             <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                 @csrf
                             </form>
